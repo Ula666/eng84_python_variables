@@ -6,7 +6,7 @@
 - Dynamically typed language
 - User interaction
 
--Testing the parcharm environment
+- Testing the PyCharm environment
 ```python
 print("Hello world")
 ```
